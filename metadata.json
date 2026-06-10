@@ -1,0 +1,6 @@
+{
+  "name": "LuxeRent",
+  "description": "LuxeRent is a premium real-time housing rental management website featuring client and owner control panels, booking requests, and real-time synchronization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
